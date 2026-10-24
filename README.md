@@ -7,9 +7,16 @@ This project is a simple Bash script that calculates simple interest.
 Simple Interest = (Principal × Rate × Time) / 100
 
 ## Inputs
-- Principal amount
-- Annual rate of interest
-- Time in years
+
+- `p`: Principal amount
+- `t`: Time period in years
+- `r`: Annual rate of interest
+
+## Output
+
+```text
+simple interest = p*t*r/100
+```
 
 ## How to Use
 
